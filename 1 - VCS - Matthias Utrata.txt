@@ -1,0 +1,38 @@
+Verse 1:
+Listen up y'all, I got something to say
+About version control systems, they're here to stay
+Whether Git, SVN or Mercurial
+These tools are essential, make no denial
+
+Verse 2:
+Version control's about tracking your code
+Storing versions like a digital abode
+So when changes are made, you can always know
+What was done, when and by who, just like a pro
+
+Verse 3:
+Collaboration's a breeze with VCS in hand
+Multiple developers can work on the same strand
+Without worrying about code conflicts or merge
+VCS got your back, like a trusted sergeant
+
+Verse 4:
+With branching and merging, you can experiment
+With new features and changes, with no detriment
+Create a new branch, work on it with zest
+Merge it back in, when it passes your test
+
+Verse 5:
+Say goodbye to the days of manual backups
+Version control systems keep your code on trackups
+In the event of data loss, no need to worry
+Restore a previous version, it's easy as cherry
+
+Verse 6:
+So whether you're working solo or with a team
+Version control is a must, it's not a dream
+Choose the right VCS, learn it like a pro
+And watch your code soar, like a perfect throw.
+
+
+

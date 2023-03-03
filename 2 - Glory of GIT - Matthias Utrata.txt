@@ -1,0 +1,35 @@
+Verse 1:
+Let me tell you 'bout Git, the VCS king
+A powerful tool, let your code take wing
+With branching and merging, it's easy to see
+Why Git's the choice for developers like me
+
+Verse 2:
+You can work offline, commit your code
+Then push it up, it's just a simple ode
+To the power of Git, where collaboration reigns
+The perfect tool for teams that crave gains
+
+Verse 3:
+With Git, it's easy to roll back
+Undo changes with a simple knack
+And with stashing, you can save your work
+Keeping your progress without going berserk
+
+Verse 4:
+Say goodbye to code conflicts and confusion
+Git's got your back, with a simple resolution
+Merge conflicts are a breeze, with a visual merge tool
+You'll be solving conflicts like a Git master, cool
+
+Verse 5:
+With Git, you can automate your workflow
+Using hooks and scripts, it's easy to know
+When code is merged or a build has failed
+Git makes development a streamlined tale
+
+Verse 6:
+So if you're not using Git, it's time to start
+Experience the glory, it's sure to set you apart
+From the rest of the pack, with its powerful features
+Git's the VCS that'll make you a code creature.
